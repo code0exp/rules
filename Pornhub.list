@@ -1,0 +1,17 @@
+# NAME: Pornhub
+# AUTHOR: code0exp
+# REPO: https://github.com/code0exp/rules
+# UPDATED: 2024-12-02 16:16:17
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 8
+# IP-CIDR: 0
+# USER-AGENT: 0
+# TOTAL: 8
+HOST-SUFFIX,phncdn.com
+HOST-SUFFIX,phprcdn.com
+HOST-SUFFIX,porhub.com
+HOST-SUFFIX,porngub.com
+HOST-SUFFIX,pornhub-deutsch.net
+HOST-SUFFIX,pornhub.com
+HOST-SUFFIX,pornhubapparel.com
+HOST-SUFFIX,pornhubpremium.
