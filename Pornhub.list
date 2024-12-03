@@ -1,17 +1,24 @@
-# NAME: Pornhub
-# AUTHOR: code0exp
-# REPO: https://github.com/code0exp/rules
-# UPDATED: 2024-12-02 16:16:17
-# DOMAIN: 0
-# DOMAIN-SUFFIX: 8
-# IP-CIDR: 0
-# USER-AGENT: 0
-# TOTAL: 8
-HOST-SUFFIX,phncdn.com
-HOST-SUFFIX,phprcdn.com
-HOST-SUFFIX,porhub.com
-HOST-SUFFIX,porngub.com
-HOST-SUFFIX,pornhub-deutsch.net
-HOST-SUFFIX,pornhub.com
-HOST-SUFFIX,pornhubapparel.com
-HOST-SUFFIX,pornhubpremium.
+# NAME: pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,porhub.com
+DOMAIN-SUFFIX,porngub.com
+DOMAIN-SUFFIX,pornhub-deutsch.net
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubapparel.com
+DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,pronstore.com
+# NAME: xhamster
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xhamster.desi
+DOMAIN-SUFFIX,xhamster.xxx
+DOMAIN-SUFFIX,xhamsterlive.com
+DOMAIN-SUFFIX,xhcdn.com
+# NAME: xvideos
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos.red
+# NAME: stripchat
+DOMAIN-SUFFIX,doppiocdn.com
+DOMAIN-SUFFIX,strpst.com
+DOMAIN-SUFFIX,stripchat.com
